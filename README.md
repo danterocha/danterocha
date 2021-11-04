@@ -24,7 +24,7 @@
 
 ----------
  
-|<img src=https://storage.googleapis.com/appleosophy_offset_storage/2021/03/c472c9ef-instagram-logo2-696x319.jpg width="160" height="80" border="0" />|
+|<img src="https://img.olhardigital.com.br/wp-content/uploads/2017/02/20170202154414-860x450.jpg" width="160" height="80" border="0" />|
 |:------:|
 <https://www.instagram.com/dantelomonaco>
 
